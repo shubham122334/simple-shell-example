@@ -2,10 +2,6 @@ x=a+b+c
 substatraction
 x=a-b
 x=a/b
-<<<<<<< HEAD
-<<<<<<< HEAD
 x=a%b
-small change is happening 
-(Main small changes)
+small change is happening
 multiplication
-(Add one more Feature)
